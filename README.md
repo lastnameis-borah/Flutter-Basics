@@ -1,5 +1,5 @@
 # Flutter-SetUp
-Download Visual Studio Code and Install.
+Download Visual Studio Code and Install. <br/>
 Download Android Studio and Install.
 Download Git and Install.
 Download Flutter.
