@@ -5,7 +5,7 @@ Download Git and Install <br/>
 Download Flutter <br/>
 Create a folder 'src' in C:<br/>
 Install Flutter into that folder.<br/>
-Then go to C:\src\flutter<br/>
+Then go to "C:\src\flutter" <br/>
 Open 'flutter_console'<br/>
 Type 'flutter doctor' and press Enter <br/>
 Check if the result appears this way <br/>
