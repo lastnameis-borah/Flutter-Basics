@@ -3,7 +3,7 @@ void main() {
     print('hello ${i + 1}');
   }
 
-//variables are statis in dart.
+//variables are static in dart.
   String name = "Peter";
   name = "Carl"; //You can change it only to string
   print(name);
@@ -13,4 +13,10 @@ void main() {
 
   bool isNight = false;
   print(isNight);
+
+//dynamic variable
+  dynamic num = 50;
+  num = false;
+  num = "Jade";
+  print(num);
 }
